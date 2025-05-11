@@ -1,0 +1,20 @@
+/* ma balik-balik na design  */
+@import "button.css";
+@import "card.css";
+
+/* section design */
+@import "navbar.css";
+@import "hero-banner.css";
+@import "footer.css";
+@import "ourstore.css";
+@import "product.css";
+@import "contact.css";
+
+
+body {
+  background: url(../images/flower1.jpg) center center / cover no-repeat fixed;
+  background-attachment: scroll;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
